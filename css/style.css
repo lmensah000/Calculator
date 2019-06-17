@@ -1,0 +1,97 @@
+body{
+
+}
+.screen{
+  padding: 0px;
+  margin-left: 50px;
+  height: 48px;
+  width: 25px;
+}
+.display{
+  padding: 2px;
+  margin: 0px;
+  height: 37px;
+  width: 232px;
+}
+.show{
+  padding: 2px;
+  margin: 0px;
+  height: 30px;
+  width: 230px;
+  color: white;
+  text-align: right;
+  font-size: 34px;
+
+}
+.Calculator{
+padding: 0px;
+height: 343px;
+width: 236px;
+background-color: black;
+position: absolute;
+margin-left:50%;
+margin-top: 10%;
+}
+#size0{
+  padding: 0px;
+  padding-right: 0px;
+  margin: 0px;
+  height: 60px;
+  width: 56px;
+  background-color: #C3C3C3;
+}
+#size{
+  padding: 0px;
+  padding-right: 0px;
+  margin: 0px;
+  height: 60px;
+  width: 56px;
+  color: white;
+  background-color: #4E4E53;
+}
+#size1{
+  padding: 0px;
+  padding-right: 0px;
+  margin: 0px;
+  height: 60px;
+  width: 56px;
+  color: white;
+  background-color: orange;
+}
+#size2{
+  padding: 0px;
+  padding-right: 0px;
+  margin: 0px;
+  height: 60px;
+  width: 116px;
+  color: white;
+  background-color: #4E4E53;
+}
+.row0{
+  padding: 0px;
+  margin: 0px;
+
+
+}
+
+}
+.row1{
+  padding: 0px;
+  margin: 0px;
+
+}
+.row2{
+  padding: 0px;
+  margin: 0px;
+
+}
+.row3{
+  padding: 0px;
+  margin: 0px;
+
+}
+.row4{
+  padding: 0px;
+  margin: 0px;
+
+}
